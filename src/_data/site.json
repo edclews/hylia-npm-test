@@ -1,13 +1,13 @@
 {
-  "showThemeCredit": true,
-  "name": "Hylia Starter Kit",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
+  "showThemeCredit": false,
+  "name": "Endless Drivel V2",
+  "shortDesc": "I'm a designer, photographer and illustrator based in York, UK.",
   "url": "https://hylia.website",
-  "authorEmail": "hi@piccalil.li",
-  "authorHandle": "@piccalilli_",
-  "authorName": "Andy Bell",
+  "authorEmail": "ed@edclews.com",
+  "authorHandle": "@edclews",
+  "authorName": "Ed Clews",
   "enableThirdPartyComments": false,
-  "maxPostsPerPage": 5,
   "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
-  "faviconPath": "/images/favicon.png"
+  "faviconPath": "/images/favicon.png",
+  "maxPostsPerPage": 5
 }
