@@ -8,4 +8,4 @@ postsHeading: Read some drivel
 archiveButtonText: See all posts
 socialImage: ""
 ---
-This is my blog where I shove the bits that don't fit in my [illustration](https://edclews.com/) or [photography](https://www.edclewsphoto.co.uk/) sites. Sausages v2
+This is my blog where I shove the bits that don't fit in my [photography](https://www.edclewsphoto.co.uk/), [illustration](https://www.edclews.co.uk/illustration) or [design](https://www.edclews.co.uk/graphic-design) bits.
